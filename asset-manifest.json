@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/demo_project/static/css/main.e0eddf70.css",
+    "main.js": "/demo_project/static/js/main.b342d00a.js",
+    "static/media/manangupta.jpg": "/demo_project/static/media/manangupta.ee695879e12eaf0d8a3a.jpg",
+    "index.html": "/demo_project/index.html",
+    "main.e0eddf70.css.map": "/demo_project/static/css/main.e0eddf70.css.map",
+    "main.b342d00a.js.map": "/demo_project/static/js/main.b342d00a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e0eddf70.css",
+    "static/js/main.b342d00a.js"
+  ]
+}
